@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Soy una persona a la cual le gustan los retos y la programación, por lo que espero con este programa pueda crecer en el ámbito profesional y personal.
 
-Las ecpectativas que tengo de este proyecto son:
+Las expectativas que tengo de este proyecto son:
 
 - Reforzar mis conocimietos de Git y GitHub
 - Aprender sobre el desarrollo BackEd con nodeJS
